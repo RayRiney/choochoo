@@ -1,0 +1,21 @@
+#jumbotron {
+	background-color: teal;
+	margin-top: 20px;
+}
+
+.panel-info>.panel-heading {
+	background-color: teal;
+	color: #000000;
+}
+
+#addTrain {
+	background-color: teal;
+}
+
+.btn:hover {
+	background-color: teal; //? doesn't seem to be working, but the rest of the hover is good.
+	color: #000;
+	border-color: #000;
+
+}
+
